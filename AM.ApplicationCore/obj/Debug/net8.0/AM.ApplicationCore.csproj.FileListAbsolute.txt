@@ -1,0 +1,12 @@
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll

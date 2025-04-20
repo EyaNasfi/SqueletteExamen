@@ -1,0 +1,17 @@
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.deps.json
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.runtimeconfig.json
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.dll
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.pdb
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfo.cs
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\AM.Infra.6BD442B8.Up2Date
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.dll
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\refint\AM.Infrastructure.dll
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.pdb
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.genruntimeconfig.cache
+C:\Users\Eya\source\repos\NasfiEya4DS10Examsqulettelast\NasfiEya4DS10Examsq\NasfiEya4DS10Exam\AM.Infrastructure\obj\Debug\net8.0\ref\AM.Infrastructure.dll

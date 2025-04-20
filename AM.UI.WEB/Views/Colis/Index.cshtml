@@ -1,0 +1,78 @@
+﻿@model IEnumerable<AM.ApplicationCore.Domain.Colis>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<form asp-action="index">
+    <fieldset>
+        <legend> Recherche</legend>
+        Saisir une date de livraison :
+        <input type="date" name="dl" />
+        <input type="submit" value="Serach" />
+    </fieldset>
+</form>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DateLivraison)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Montant)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Poids)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Volume)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LivreurFk)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClientFk)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.image)
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateLivraison)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Montant)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Poids)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Volume)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LivreurFk)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientFk)
+            </td>
+                <td>
+                    <img src="~/uploads/@item.image" width="50" height="50" />
+                </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
